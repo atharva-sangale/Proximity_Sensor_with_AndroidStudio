@@ -1,0 +1,1 @@
+To create a proximity sensor application in Android Studio using Java, implement SensorEventListener in your activity. Initialize SensorManager and the proximity sensor in onCreate(). Register the sensor listener in onResume() and unregister it in onPause(). Override onSensorChanged() to handle proximity sensor data. Update the UI or perform actions based on the sensor readings.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proximity_Sensor</string>
+    <string name="Objectisfar">Object is Far</string>
+    <string name="Objectisnear">Object is Near</string>
+</resources>
